@@ -1,0 +1,17 @@
+{
+    "list": [
+        "settings.json"
+    ],
+    "check_interval": 3,
+    "url": "https://kktix.com/events/goldenwave/registrations/new",
+    "advanced": {
+        "language": "\u7e41\u9ad4\u4e2d\u6587",
+        "play_sound": {
+            "ticket": true,
+            "filename": "ding-dong.wav"
+        }
+    },
+    "ticket_exec_maxbot": true,
+    "ticket_exec_command": true,
+    "new_process": ""
+}
